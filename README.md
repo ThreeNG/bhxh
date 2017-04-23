@@ -13,11 +13,12 @@
     Mã số sổ BHXH đã được cấp (chưa có thì ghi "Chưa") Chưa
 
     Nơi đăng ký khám chữa bệnh ban đầu (ghi đầy đủ tên bệnh viện theo file đính kèm): Bệnh Viện Đa Khoa Hoàn Mỹ Sài Gòn
-    Mã KCB (ghi theo file đính kèm) Nơi cấp giấy khai sinh (phường/xã) 071 xã Phú Dương huyện Phú Vang tỉnh Thừa Thiên Huế
+    Mã KCB (ghi theo file đính kèm) 071 Nơi cấp giấy khai sinh (phường/xã) Phú Dương
+    Trạm YTCQ Bệnh viện Đại học Y dược Tp. HCM 069
 
-    Nơi cấp giấy khai sinh (Quận/ Huyện) xã
+    Nơi cấp giấy khai sinh (Quận/ Huyện)  huyện Phú Vang
 
-    Nơi cấp giấy khai sinh (Tỉnh/ TP)
+    Nơi cấp giấy khai sinh (Tỉnh/ TP) tỉnh Thừa Thiên Huế
 
     Dân tộc Kinh
 
